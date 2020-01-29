@@ -1,0 +1,29 @@
+h1{
+    color:white;
+    background-color:blue;
+    height: 50px;
+    width: 400px;
+}
+.parent{
+    background-color: thistle;
+    height: 50px;
+    width: 400px;
+}
+.img{
+    background:url("../../assets/javap.jpg");
+
+height: 600px;
+width: 2000px;
+}
+
+
+
+button {
+    background-color : blue;
+    border : none;
+    color : white;
+    text-align : center;
+    text-decoration :none;
+    display : inline-block;
+    font-size :30px;
+    }
